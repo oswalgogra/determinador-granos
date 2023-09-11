@@ -1,6 +1,6 @@
 # Librería para conexión con el bluetooth
 
-* Status: proposed
+* Status: accepted
 * Deciders: Oswaldo, Javier Campuzano, Jorge Luis
 * Date: 2023-09-11
 

@@ -1,6 +1,6 @@
 # Gestor de estados de la móvil
 
-* Status: proposed
+* Status: accepted
 * Deciders: Oswaldo, Javier Campuzano, Jorge Luis
 * Date: 2023-09-11
 

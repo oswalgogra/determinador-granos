@@ -1,6 +1,6 @@
 # Generación de la app para las plataformas
 
-* Status: proposed
+* Status: accepted
 * Deciders: Oswaldo, Javier Campuzano, Jorge Luis
 * Date: 2023-09-11
 
