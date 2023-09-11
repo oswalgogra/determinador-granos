@@ -1,6 +1,7 @@
 # Lenguaje de desarrollo de la app
 
-* Status: proposed
+* Status: accepted
+* Deciders: Oswaldo, Javier Campuzano, Jorge Luis
 * Date: 2023-09-11
 
 ## Context and Problem Statement
